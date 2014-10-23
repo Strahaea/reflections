@@ -1,0 +1,8 @@
+Q: What happens when you initialize a repository?
+Why do you need to do it?
+
+A: Repositories need to be initilialized so that git 
+treats them as a repository and can begin to take in commits on those
+files. If you did not initilialize git would not know to be involved
+with those files.
+
