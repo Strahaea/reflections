@@ -6,3 +6,9 @@ treats them as a repository and can begin to take in commits on those
 files. If you did not initilialize git would not know to be involved
 with those files.
 
+Q: How is the staging area different from the working directory
+and the repository? What value do you think it offers?
+
+A: The staging area allows a user to think about what
+they are doing before they made a commit and also allows
+them to add what files they believe are necessary for that commit.

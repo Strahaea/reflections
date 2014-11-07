@@ -3,8 +3,8 @@ a bug that was introduced?
 
 A: By seeing the two versions and what differed between them I was
 able to narrow down my search to a few specific lines (the lines where
-changes were introduced) and this greatly accelerated how quickly I could
-find the error.
+changes were introduced) and this greatly accelerated how quickly I
+could find the error.
 
 Q: How could having easy access to the entire history of a file 
 make you a more efficient programmer in the long term?
@@ -32,15 +32,18 @@ Q: Why do you think some version control system, like Git, allow
 saving multiple files in one commit, while others, like Google Docs, 
 treat each file seperately?
 
-I think this is because google docs has a broader userbase than git
-and the users do not really think about version control.
+A: I think this is because google docs has a broader userbase than git
+and the users do not really think about version control. I also think
+this reflects the type of files being dealt with. In google docs, 
+files like words documents tend not to be related whereas git focuses
+more on projects where several files are related.
 
 Q: How can you use the commands git log and git diff to view the
 history of files?
 
 A: You type in git log(after being inside a file folder) and it will 
 show you a history of the commits to that file and then you can further
-use diff to show what specific changes were made between commits 
+use diff to show what specific changes were made between commits. 
 
 Q: How might using version control make you more confident to make
 changes that could break something?
