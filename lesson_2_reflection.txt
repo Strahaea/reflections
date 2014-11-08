@@ -12,3 +12,8 @@ and the repository? What value do you think it offers?
 A: The staging area allows a user to think about what
 they are doing before they made a commit and also allows
 them to add what files they believe are necessary for that commit.
+
+Q: How can you use the staging area to make sure you have one commit
+per logical change?
+
+A: Using the staging area you can compare with the previous commit version using diff and ensure that you are only making one logical change per commit.
