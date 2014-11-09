@@ -17,3 +17,10 @@ Q: How can you use the staging area to make sure you have one commit
 per logical change?
 
 A: Using the staging area you can compare with the previous commit version using diff and ensure that you are only making one logical change per commit.
+
+Q: What are some situations when branches would be helpful in keeping
+your history organized? How would branches help?
+
+A: Branches are useful when a project can go in two different directions. For instance, different languages on a website, or a game that has 
+an easy mode and a hard mode. In both cases the basis of the product 
+are the same but some particular features differ.
