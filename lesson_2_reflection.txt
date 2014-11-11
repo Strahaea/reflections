@@ -38,3 +38,10 @@ the features of both versions, for instance coins and color and you can
 then further use the new features together like making colored coins.  
 
 We represent the diagram the way we do to show the merging taking place.
+
+Q: What are the pros and cons of Git's austomatic merging vs. always
+doing merges manually?
+
+A: Automatic merging saves a lot of time and the way git does it, if 
+there is any ambiguity the user will be asked to help resolve the 
+ambiguity before the merge is completed.
