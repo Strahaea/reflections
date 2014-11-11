@@ -24,3 +24,8 @@ your history organized? How would branches help?
 A: Branches are useful when a project can go in two different directions. For instance, different languages on a website, or a game that has 
 an easy mode and a hard mode. In both cases the basis of the product 
 are the same but some particular features differ.
+
+Q: How do the diagrams help you visualize the branch structure?
+
+A: The diagrams allow you to see how various commits relate to eachother
+within branches and explains why commits not on a branch will not show up in git log, because they are not related to the commit being explored.
