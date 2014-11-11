@@ -29,3 +29,12 @@ Q: How do the diagrams help you visualize the branch structure?
 
 A: The diagrams allow you to see how various commits relate to eachother
 within branches and explains why commits not on a branch will not show up in git log, because they are not related to the commit being explored.
+
+Q: What is the result of merging two branches togeth? Why do represent
+it in the diagram the way we do?
+
+A: The result of merging two branches together is that you have 
+the features of both versions, for instance coins and color and you can 
+then further use the new features together like making colored coins.  
+
+We represent the diagram the way we do to show the merging taking place.
